@@ -1,27 +1,27 @@
-🎮 Tic Tac Toe Game — Built with HTML, CSS & JavaScript
-A simple, interactive, and beginner-friendly Tic Tac Toe game. Players take turns as X and O on a 3×3 grid, aiming to get three in a row to win. This project demonstrates core web development skills including layout design, DOM manipulation, and game logic.
-
-🚀 Features
-Responsive 3×3 grid layout
-
-Turn-based gameplay for two players
-
-Win detection logic
-
-Draw condition handling
-
-Reset button for replayability
+# 🎮 **Tic Tac Toe Game — HTML, CSS & JavaScript Project**
 
 
+**A fun and interactive browser-based Tic Tac Toe game.**  
+Players take turns as **X** and **O** on a 3×3 grid, aiming to align three symbols to win.  
+Built using pure frontend technologies — perfect for beginners and portfolio projects!
 
-🛠️ Technologies Used
-HTML – for structuring the game board
+---
 
-CSS – for styling and layout
+## ✨ **Features**
 
-JavaScript – for game logic and interactivity
+- 🖌️ **Interactive 3×3 game board**
+- 🔄 **Turn-based gameplay for two players**
+- 🧠 **Win and draw detection logic**
+- ♻️ **Reset button to restart the game**
+  
 
+---
 
-├── index.html       → Main HTML file
-├── style.css        → Styling for the game board and elements
-├── script.js        → JavaScript logic for gameplay
+## 🧰 **Tech Stack**
+| 🔧 Technology | 💡 Purpose |
+|--------------|------------|
+| **HTML**     | Structure of the game board |
+| **CSS**      | Styling and layout |
+| **JavaScript** | Game logic and interactivity |
+
+---
